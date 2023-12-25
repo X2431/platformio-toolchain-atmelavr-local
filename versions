@@ -1,0 +1,13 @@
+LoongArch GNU toolchain rc1.2 (20230615)
+
+gcc-8.3.0
+commit: a812acc1805a139b88fbbb2b0b040f1de63363d9 (8.3.0-6.36)
+
+binutils-2.31.1
+commit: c54a735c2a5ddbe7ecd167e143a900ad167a52c9 (2.31.1-16.27)
+
+glibc-2.28
+commit: b2990f279b0e55f94b89b84b67b75bf227be18dd (pkg_lnd10_glibc-35)
+
+gdb-8.1.50
+commit: 250bb6e545f85a402f385b7f5a8d433e81ca9032

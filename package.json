@@ -1,0 +1,6 @@
+{
+    "description": "avr-gcc",
+    "name": "toolchain-atmelavr",
+    "system": "linux_loongarch6464",
+    "url": "https://www.microchip.com/mplab/avr-support/avr-and-arm-toolchains-c-compilers"
+}
